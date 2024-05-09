@@ -1,2 +1,2 @@
 # js-hindi-sumit
-sumit Rathi
+A code repo for javascript at chai aur code
